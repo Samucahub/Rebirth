@@ -1,6 +1,8 @@
-# 🎮 Rebirth – RPG Game Project
+<h1 align="center">🎮 Rebirth – RPG Game Project</h1>
 
-![Rebirth Banner](https://github.com/Samucahub/Rebirth/blob/main/Images/rebirth.png)
+<p align="center">
+  ![Rebirth Banner](https://github.com/Samucahub/Rebirth/blob/main/Images/rebirth.png)
+</p>
 
 > **Prova de Aptidão Profissional (PAP)**
 > Curso Profissional de Técnico de Gestão e Programação de Sistemas Informáticos

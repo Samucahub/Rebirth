@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Rebirth – RPG Game Project</h1>
 
 <p align="center">
-  ![Rebirth Banner](https://github.com/Samucahub/Rebirth/blob/main/Images/rebirth.png)
+  <img src="/Images/rebirth.png" width="250" alt="Radar Animation"/>
 </p>
 
 > **Prova de Aptidão Profissional (PAP)**
